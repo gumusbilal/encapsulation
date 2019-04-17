@@ -12,11 +12,11 @@ package encapsulation;
 public class Jugol {
     private String pen="Xiaomi";
     protected String mobile="Huawei";
-    private int taka=5000;
+    private int taka=1000;
     
     private void gf()
     {
-        System.out.println(taka);
+        System.out.println(taka+mobile);
     }
     
 }
