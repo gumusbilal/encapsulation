@@ -10,5 +10,6 @@ package encapsulation;
  * @author ADN
  */
 public class Piyas extends Jugol {
+    public int a;
     
 }
